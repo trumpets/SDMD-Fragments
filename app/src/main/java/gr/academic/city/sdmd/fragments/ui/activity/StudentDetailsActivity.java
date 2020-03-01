@@ -3,8 +3,8 @@ package gr.academic.city.sdmd.fragments.ui.activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import gr.academic.city.sdmd.fragments.R;
 import gr.academic.city.sdmd.fragments.ui.fragment.StudentDetailsFragment;
